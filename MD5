@@ -1,0 +1,16 @@
+ac8f612df71413f030ae25c258d1d758 *DESCRIPTION
+04a9f84c8836a5a291e8f76340c97595 *NAMESPACE
+2837bfd2a10ca3a656badfa7ccd65baa *R/PheNorm_Prob.R
+69e57c49fc8f117a2b50ee5d4b4b53f4 *R/VTM.R
+d5b129e471463bd5b91e6338bd29e9af *R/findMagicNumber.R
+299b6288c314de78cea3e689de865028 *R/import.R
+508e93fe93738f222131478b23e5c926 *R/normalmixEM2comp2.R
+11c75b61fd54af9f18fd2aee60d200fa *README.md
+db65fe7ddf05d78aab7c6a5d414ded02 *build/vignette.rds
+14acb7235715ac4fe5ff7c975679b969 *inst/doc/my-vignette.R
+73ac6a3145d502c93de7e2cc16824b1d *inst/doc/my-vignette.Rmd
+00405cc10e5b6b69f28ef1fdc9a5371d *inst/doc/my-vignette.html
+0c2622a9621fa23f20a3a9b676d1c52d *man/PheNorm.Prob.Rd
+94b0300cc1e5933f7418af7c49fbf463 *tests/testthat.R
+9e09897bf79814ef41f0157fa85220c9 *tests/testthat/test-PheNorm_Prob.R
+73ac6a3145d502c93de7e2cc16824b1d *vignettes/my-vignette.Rmd
